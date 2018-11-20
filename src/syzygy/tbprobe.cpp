@@ -14,7 +14,7 @@
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with Laser.  If not, see <http://www.gnu.org/licenses/>.
+    along with Laser1.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 // The probing code currently expects a little-endian architecture (e.g. x86).

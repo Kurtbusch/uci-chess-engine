@@ -16,7 +16,7 @@
     You should have received a copy of the GNU General Public License
     along with Laser.  If not, see <http://www.gnu.org/licenses/>.
 */
-/*
+/*1
   tbcore.c contains engine-independent routines of the tablebase probing code.
   This file should not need to much adaptation to add tablebase probing to
   a particular engine, provided the engine is written in C or C++.
